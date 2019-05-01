@@ -29,7 +29,6 @@ import all color variables
 /* /.block class is an empty block */
 
 .card-columns {
-
     -webkit-column-count: 2;
     -moz-column-count: 2;
     column-count: 2;
@@ -47,4 +46,11 @@ import all color variables
 }
 .card-text {
     line-height: 1.8;
+}
+
+.mr-05 {
+    margin-right: 5rem !important;
+}
+.ml-05 {
+    margin-left: 5rem !important;
 }
